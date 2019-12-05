@@ -1,0 +1,12 @@
+﻿  Group.cpp
+C:\Users\Lu\Desktop\SimpleCurl_PC\SimpleCurl\Group.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lu\Desktop\SimpleCurl_PC\SimpleCurl\Group.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lu\Desktop\SimpleCurl_PC\SimpleCurl\Group.cpp(20,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lu\Desktop\SimpleCurl_PC\SimpleCurl\Group.cpp(21,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lu\Desktop\SimpleCurl_PC\SimpleCurl\Group.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Lu\Desktop\SimpleCurl_PC\SimpleCurl\main.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lu\Desktop\SimpleCurl_PC\SimpleCurl\main.cpp(79,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lu\Desktop\SimpleCurl_PC\SimpleCurl\main.cpp(83,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SimpleCurl.vcxproj -> C:\Users\Lu\Desktop\SimpleCurl_PC\Debug\SimpleCurl.exe

@@ -1,0 +1,16 @@
+﻿  Group.cpp
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\Group.cpp(10,20): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\Group.cpp(30,20): warning C4018:  '<=': signed/unsigned mismatch
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\main.cpp(73,23): warning C4018:  '<': signed/unsigned mismatch
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\main.cpp(77,23): warning C4018:  '<': signed/unsigned mismatch
+  OpeOverLoad.cpp
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\main.cpp(81,23): warning C4018:  '<': signed/unsigned mismatch
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\OpeOverLoad.cpp(9,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\OpeOverLoad.cpp(17,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\OpeOverLoad.cpp(25,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\OpeOverLoad.cpp(33,20): warning C4018:  '<': signed/unsigned mismatch
+  RetrieveData.cpp
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\OpeOverLoad.cpp(41,20): warning C4018:  '<': signed/unsigned mismatch
+  Stock.cpp
+E:\Lujiawei\SimpleCurl_PC\SimpleCurl\RetrieveData.cpp(10,10): error C1083:  Cannot open include file: 'curl.h': No such file or directory
